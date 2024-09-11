@@ -1,16 +1,19 @@
 
 # Graph NN with Autograd for chemical systems
 
+[View the notes](notes.md)
+
+
 ## Important To Do
 
 MORE IMPROTANT:
-- [ ] Refactor into Jax to include JIT, GPU and Sharding before adding to native support w/out
+- [X] Refactor into Jax to include JIT, GPU and Sharding before adding to native support w/out
 
 - [ ] Make dataset prearation
 - [ ] Make dataset relevant to PaiNN
 - [ ] After completion make for NAD
-- [ ] complete update block
-- [ ] Refactor
+- [X] complete update block
+- [X] Refactor
 - [ ] Recode Module to make compatible with message and update blocks
 - [ ] Add optional if grad required statements for optimal computation
 - [ ] Combine Linear and Linear3D evenrually

@@ -28,4 +28,5 @@ env/
 # Ignore specific markdown files
 embedding.md
 PES.md
+roadmap.md
 
