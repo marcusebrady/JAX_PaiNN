@@ -1,0 +1,31 @@
+# macOS metadata
+.DS_Store
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+painn_env/
+.env
+venv/
+env/
+*.venv
+*.env
+
+
+# Ignore specific markdown files
+embedding.md
+PES.md
+
